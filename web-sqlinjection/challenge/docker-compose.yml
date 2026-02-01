@@ -1,0 +1,8 @@
+services:
+  sqlinjection:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - INSTANCE_TIMEOUT=600
+      - FLAG=EOF{test}

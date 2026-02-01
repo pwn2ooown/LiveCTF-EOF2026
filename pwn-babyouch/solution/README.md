@@ -1,0 +1,1 @@
+The remote instance is running on ARM GCP instance.

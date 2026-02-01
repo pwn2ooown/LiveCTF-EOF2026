@@ -1,0 +1,10 @@
+services:
+  profile-viewer:
+    build: .
+    ports:
+      - "11111:3000"
+    environment:
+      - PORT=3000
+      - NODE_ENV=production
+      - FLAG=EOF{76543210}
+    restart: unless-stopped
