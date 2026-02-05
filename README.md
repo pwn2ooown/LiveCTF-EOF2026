@@ -6,10 +6,10 @@ This repository contains challenges and solutions for the 2026 AIS3 EOF LiveCTF.
 
 | Round         | Name                                                            | Category | Author           | Solution                    |
 | ------------- | --------------------------------------------------------------- | -------- | ---------------- | --------------------------- |
-| 1-Desperado   | 開局就送魔 Shellcode                                            | Pwn      | naup96321        | Shellcoding                 |
+| 1-Desperado   | 開局就送魔 Shellcode                                             | Pwn      | naup96321        | Shellcoding                 |
 | 2-Mainline    | ProfilePage                                                     | Web      | Ching367436      | Side channel, CVE-2025-7338 |
 | 2-SuddenDeath | SQL Injection                                                   | Web      | pwn2ooown        | SQLite3 write crontab       |
-| 2-Desperado   | Daemon Slayer Revenge                                           | Crypto   | Whale120+Curious | I have no idea              |
+| 2-Desperado   | Daemon Slayer Revenge                                           | Crypto   | Whale120         | I have no idea              |
 | 3-Mainline    | AIS3 Jail                                                       | Misc     | Vincent55        | pyjail                      |
 | 3-SuddenDeath | Just Input                                                      | Misc     | pwn2ooown        | pyjail                      |
 | 4-Mainline    | PINii                                                           | Rev      | pwn2ooown        | `pintools`, `strace`        |
