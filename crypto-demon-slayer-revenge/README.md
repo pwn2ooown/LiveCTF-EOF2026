@@ -1,7 +1,7 @@
 # Daemon Slayer Revenge
 
 - **Tags**: crypto
-- **Author**: Whale120
+- **Author**: Whale120, solution by Curious
 
 ## Description
 
